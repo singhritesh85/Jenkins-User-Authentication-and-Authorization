@@ -82,3 +82,14 @@ For Autorization mode I chosen Logged-in users can do anything. However you can 
 
 ![image](https://github.com/user-attachments/assets/6ac1a575-4aa1-46aa-9a2f-800d17a95087)
 
+![image](https://github.com/user-attachments/assets/b620b098-1474-4757-8d57-a8e844d512e6)
+![image](https://github.com/user-attachments/assets/1c05dc66-5222-49b1-a5cf-beb5a9531823)
+
+You can create the users with **Manage Jenkins** > **Users** for Authentication purpose you can follow the same procedure as explained earlier.
+
+![image](https://github.com/user-attachments/assets/67917a91-cb52-40a0-9149-caa303b6a4cf)
+![image](https://github.com/user-attachments/assets/4f095527-fdae-4d3c-a6be-27221f7f37b9)
+
+I logged-in with user user3 and I provided Authorization mode as Logged-in user can do anything.
+
+![image](https://github.com/user-attachments/assets/abae5111-fd33-4f19-bcb4-ef02f1a11f22)
