@@ -44,7 +44,7 @@ Now I am using **Project-based Matrix authorization strategy** and provided over
 ![image](https://github.com/user-attachments/assets/32490025-1090-4fab-bd56-78d3080fda36)
 
 Go to **Manage Jenkins** > **Security** as shown in the screenshot attached below.
-![image](https://github.com/user-attachments/assets/4d078713-38b3-4395-9f2a-da1939217e4b)
+![image](https://github.com/user-attachments/assets/9bf5faad-6127-4e08-bfb5-289b5be5fe3e)
 
 In Jenkins Job test-2 I did not enable project based security while in Jenkins Job test-1 I enabled project based security with the condition of **Inherit permissions from parent ACL** as shown in the screenshot attached below. In test-1 Jenkins Job user1 has Job based Read access as shown in the screenshot attached below.
 
